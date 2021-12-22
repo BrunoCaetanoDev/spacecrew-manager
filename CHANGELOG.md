@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2021-06-07
 ### Added
+* Migrate to Java 17 [#1](https://github.com/BrunoCaetanoDev/spacecrew-manager/issues/21)
 * Unit and integration testing [#21](https://github.com/cf-training-springboot-2019/spacecrew-manager/issues/21)
 * Standardized logging capabilities [#19](https://github.com/cf-training-springboot-2019/spacecrew-manager/issues/19)
 * Response header enrichment [#17](https://github.com/cf-training-springboot-2019/spacecrew-manager/issues/17)
